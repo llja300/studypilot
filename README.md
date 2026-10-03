@@ -1,0 +1,2 @@
+# studypilot
+studypilot startup website.
